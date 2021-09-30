@@ -40,3 +40,4 @@ describe("mysolanaapp", () => {
     console.log('Count 1: ', account.count.toString())
     assert.ok(account.count.toString() == 1);
   });
+});
